@@ -1,6 +1,16 @@
 /*
 Star hollow square with diagonal pattern
 
+*********
+**     **
+* *   * *
+*  * *  *
+*   *   *
+*  * *  *
+* *   * *
+**     **
+*********
+
 */
 
 let star = "";
