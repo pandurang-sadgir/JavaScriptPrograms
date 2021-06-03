@@ -1,6 +1,9 @@
 /*
 Right Triangle Star Pattern.
-
+*
+**
+***
+****
  */
 let star = "";
 for(let i=1; i<=9; i++){//for new line
